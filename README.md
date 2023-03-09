@@ -16,7 +16,7 @@ I am an enthusiastic programmer and passionate about technology, student of Comp
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfalcaolopes&theme=radical"/>
 </p>
 
-<h3 align="center">Tecnologias que já trabalhei</h3>
+<h3 align="center">Technologies I've worked with</h3>
 <p align="center" >
   <img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS">
